@@ -6,6 +6,7 @@ public class something{
         System.out.println("made third diverge");
         System.out.println("making a new branch");
         System.out.println("new work after the new branch");
+        System.out.println("making another branch");
     }
 
 }
